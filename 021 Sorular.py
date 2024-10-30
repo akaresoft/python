@@ -28,6 +28,9 @@ print(agac)
 agac.sort() #Türkçe karakterlere göre sıralamaz
 print("Sıralama sonucu:",agac) 
 
+agac.reverse()
+print("Ters çevrilince:",agac)
+
 agacyedek=agac.copy() #agac listesinin kopyasını agacyedek'e aktarır
 print(agacyedek)
 
