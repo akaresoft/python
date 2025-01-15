@@ -6,6 +6,7 @@
 # pip install easyocr
 # pip install imutils
 # pip install matplotlib
+#https://medium.com/augmented-startups/automatic-number-plate-recognition-with-easy-ocr-and-open-cv-6d121384cdc7
 
 import cv2
 import numpy as np
